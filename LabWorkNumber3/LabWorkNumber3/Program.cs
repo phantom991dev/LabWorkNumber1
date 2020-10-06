@@ -19,7 +19,9 @@ namespace LabWorkNumber3
             Console.Write("Введите z: ");
             z = Convert.ToSingle(Console.ReadLine());
 
-            R = Math.Sqrt(2 * sin(x)) + 2 * y - 4 * x * y + z;
+            R = Math.Sqrt(2 * sin*(x)) + 2 * y - 4 * x * y + z;
+
+
 
         }
     }
