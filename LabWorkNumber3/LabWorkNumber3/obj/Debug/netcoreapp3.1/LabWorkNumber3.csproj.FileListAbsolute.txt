@@ -1,0 +1,13 @@
+C:\Users\Oleg\Source\Repos\phantom991dev\LabWorkNumber3\LabWorkNumber3\LabWorkNumber3\obj\Debug\netcoreapp3.1\LabWorkNumber3.csprojAssemblyReference.cache
+C:\Users\Oleg\Source\Repos\phantom991dev\LabWorkNumber3\LabWorkNumber3\LabWorkNumber3\obj\Debug\netcoreapp3.1\LabWorkNumber3.AssemblyInfoInputs.cache
+C:\Users\Oleg\Source\Repos\phantom991dev\LabWorkNumber3\LabWorkNumber3\LabWorkNumber3\obj\Debug\netcoreapp3.1\LabWorkNumber3.AssemblyInfo.cs
+C:\Users\Oleg\Source\Repos\phantom991dev\LabWorkNumber3\LabWorkNumber3\LabWorkNumber3\obj\Debug\netcoreapp3.1\LabWorkNumber3.csproj.CoreCompileInputs.cache
+C:\Users\Oleg\Source\Repos\phantom991dev\LabWorkNumber3\LabWorkNumber3\LabWorkNumber3\bin\Debug\netcoreapp3.1\LabWorkNumber3.exe
+C:\Users\Oleg\Source\Repos\phantom991dev\LabWorkNumber3\LabWorkNumber3\LabWorkNumber3\bin\Debug\netcoreapp3.1\LabWorkNumber3.deps.json
+C:\Users\Oleg\Source\Repos\phantom991dev\LabWorkNumber3\LabWorkNumber3\LabWorkNumber3\bin\Debug\netcoreapp3.1\LabWorkNumber3.runtimeconfig.json
+C:\Users\Oleg\Source\Repos\phantom991dev\LabWorkNumber3\LabWorkNumber3\LabWorkNumber3\bin\Debug\netcoreapp3.1\LabWorkNumber3.runtimeconfig.dev.json
+C:\Users\Oleg\Source\Repos\phantom991dev\LabWorkNumber3\LabWorkNumber3\LabWorkNumber3\bin\Debug\netcoreapp3.1\LabWorkNumber3.dll
+C:\Users\Oleg\Source\Repos\phantom991dev\LabWorkNumber3\LabWorkNumber3\LabWorkNumber3\bin\Debug\netcoreapp3.1\LabWorkNumber3.pdb
+C:\Users\Oleg\Source\Repos\phantom991dev\LabWorkNumber3\LabWorkNumber3\LabWorkNumber3\obj\Debug\netcoreapp3.1\LabWorkNumber3.dll
+C:\Users\Oleg\Source\Repos\phantom991dev\LabWorkNumber3\LabWorkNumber3\LabWorkNumber3\obj\Debug\netcoreapp3.1\LabWorkNumber3.pdb
+C:\Users\Oleg\Source\Repos\phantom991dev\LabWorkNumber3\LabWorkNumber3\LabWorkNumber3\obj\Debug\netcoreapp3.1\LabWorkNumber3.genruntimeconfig.cache

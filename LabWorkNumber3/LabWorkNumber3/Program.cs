@@ -6,6 +6,7 @@ namespace LabWorkNumber3
     {
         static void Main(string[] args)
         {
+            //начало программы лаб 3
             double R, x, y, z;
             Console.Write("Введите R: ");
             R = Convert.ToSingle(Console.ReadLine());
@@ -19,10 +20,9 @@ namespace LabWorkNumber3
             Console.Write("Введите z: ");
             z = Convert.ToSingle(Console.ReadLine());
 
-            R = Math.Sqrt(2 * sin*(x)) + 2 * y - 4 * x * y + z;
+            R = Math.Sqrt(2 * (x)) + 2 * y - 4 * x * y + z;
 
-
-
+            
         }
     }
 }

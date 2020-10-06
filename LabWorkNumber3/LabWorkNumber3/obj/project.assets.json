@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LabWorksVisualStudio\\LabWorkNumber3\\LabWorkNumber3\\LabWorkNumber3\\LabWorkNumber3.csproj",
+      "projectUniqueName": "C:\\Users\\Oleg\\Source\\Repos\\phantom991dev\\LabWorkNumber3\\LabWorkNumber3\\LabWorkNumber3\\LabWorkNumber3.csproj",
       "projectName": "LabWorkNumber3",
-      "projectPath": "D:\\LabWorksVisualStudio\\LabWorkNumber3\\LabWorkNumber3\\LabWorkNumber3\\LabWorkNumber3.csproj",
+      "projectPath": "C:\\Users\\Oleg\\Source\\Repos\\phantom991dev\\LabWorkNumber3\\LabWorkNumber3\\LabWorkNumber3\\LabWorkNumber3.csproj",
       "packagesPath": "C:\\Users\\Oleg\\.nuget\\packages\\",
-      "outputPath": "D:\\LabWorksVisualStudio\\LabWorkNumber3\\LabWorkNumber3\\LabWorkNumber3\\obj\\",
+      "outputPath": "C:\\Users\\Oleg\\Source\\Repos\\phantom991dev\\LabWorkNumber3\\LabWorkNumber3\\LabWorkNumber3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Oleg\\AppData\\Roaming\\NuGet\\NuGet.Config",
