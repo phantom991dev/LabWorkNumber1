@@ -21,6 +21,8 @@ namespace LabWorkNumber3
             z = Convert.ToSingle(Console.ReadLine());
 
             R = Math.Sqrt(2 * (x)) + 2 * y - 4 * x * y + z;
+
+            //программа сделана на половину
         }
     }
 }
