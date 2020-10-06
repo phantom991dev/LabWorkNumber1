@@ -22,7 +22,7 @@ namespace LabWorkNumber3
 
             R = Math.Sqrt(2 * (x)) + 2 * y - 4 * x * y + z;
 
-            
+            //конец программы
         }
     }
 }
