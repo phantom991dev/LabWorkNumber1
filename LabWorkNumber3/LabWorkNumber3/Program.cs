@@ -8,8 +8,6 @@ namespace LabWorkNumber3
         {
             //начало программы
             double r, x, y, z;
-            Console.Write("Введите r = ");
-            r = Convert.ToSingle(Console.ReadLine());
 
             Console.Write("Введите x = ");
             x = Convert.ToSingle(Console.ReadLine());
