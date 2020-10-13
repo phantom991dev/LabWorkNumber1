@@ -23,7 +23,7 @@ namespace LabWorkNumber3
             Console.WriteLine("\n\n");
             Console.WriteLine("Денежный формат {0:C} \n", r);
             Console.WriteLine("Экспоненциальный формат {0:E} \n", r);
-            Console.WriteLine("Формат с фиксированной запятой {0:F3, 7} \n", r);
+            Console.WriteLine("Формат с фиксированной запятой {0:F3} \n", r);
             Console.WriteLine("Общий формат {0:G} \n", r);
             Console.WriteLine("Числовой формат {0:N} \n", r);
             Console.WriteLine("Процентный формат {0:P} \n", r);
